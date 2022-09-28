@@ -1,0 +1,38 @@
+.logo{
+    width: 300px;
+}
+
+.logo img{
+    max-width: 100px;
+    width: 100%;
+}
+
+.promoimagenes img{
+    max-width: 500px;
+    width: 100%;
+}
+
+.logo-footer img{
+    max-width: 100px;
+    width: 100%;
+}
+
+.img,iframe{
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.marcas{
+    width: 300px;
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+@media screen and (max-width:506px) {
+    .card-text{
+        display: none;
+    }
+}
+
